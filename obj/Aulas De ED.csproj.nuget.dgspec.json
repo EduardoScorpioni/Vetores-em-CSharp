@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edusc\\OneDrive\\Área de Trabalho\\Aulas De ED\\Aulas De ED.csproj": {}
+    "C:\\Users\\edusc\\Desktop\\Nova pasta\\Vetores-em-CSharp\\Aulas De ED.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edusc\\OneDrive\\Área de Trabalho\\Aulas De ED\\Aulas De ED.csproj": {
+    "C:\\Users\\edusc\\Desktop\\Nova pasta\\Vetores-em-CSharp\\Aulas De ED.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edusc\\OneDrive\\Área de Trabalho\\Aulas De ED\\Aulas De ED.csproj",
+        "projectUniqueName": "C:\\Users\\edusc\\Desktop\\Nova pasta\\Vetores-em-CSharp\\Aulas De ED.csproj",
         "projectName": "Aulas De ED",
-        "projectPath": "C:\\Users\\edusc\\OneDrive\\Área de Trabalho\\Aulas De ED\\Aulas De ED.csproj",
+        "projectPath": "C:\\Users\\edusc\\Desktop\\Nova pasta\\Vetores-em-CSharp\\Aulas De ED.csproj",
         "packagesPath": "C:\\Users\\edusc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edusc\\OneDrive\\Área de Trabalho\\Aulas De ED\\obj\\",
+        "outputPath": "C:\\Users\\edusc\\Desktop\\Nova pasta\\Vetores-em-CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
